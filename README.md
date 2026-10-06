@@ -159,7 +159,7 @@ cadastral_encroachment/
  
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/cadastral_encroachment.git
+git clone https://github.com/gaurav443201/cadastral_encroachment.git
 cd cadastral_encroachment
  
 # 2. Create and activate a virtual environment
